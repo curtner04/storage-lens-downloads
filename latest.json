@@ -1,8 +1,8 @@
 {
     "Schema":  1,
     "App":  "SL",
-    "Version":  "1.0.0",
-    "DownloadUrl":  "https://github.com/curtner04/storage-lens-downloads/releases/download/storage-lens-1.0.0-57c4a6aa8c5a579b/SL-Setup.exe",
-    "SHA256":  "57c4a6aa8c5a579bae386e02cbf0ae33fd78bf09f7feb2b085c37b7ceba2c150",
-    "Bytes":  2104108
+    "Version":  "1.1.1",
+    "DownloadUrl":  "https://github.com/curtner04/storage-lens-downloads/releases/download/storage-lens-1.1.1-4eb7bfd5a9bc6663/SL-Setup.exe",
+    "SHA256":  "4eb7bfd5a9bc6663c3d3b0a91b1d90079abf2273818b56de62526fe7e1ee2b40",
+    "Bytes":  2124345
 }
